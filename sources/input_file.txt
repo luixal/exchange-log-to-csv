@@ -1,0 +1,61 @@
+FirstSyncTime         : 14/08/2014 13:25:23
+LastPolicyUpdateTime  : 16/04/2015 23:01:01
+LastSyncAttemptTime   : 06/07/2015 13:18:38
+LastSuccessSync       : 06/07/2015 13:18:38
+DeviceType            : SAMSUNGGTI8160P
+DeviceID              : SAMSUNG1352364052645029
+DeviceUserAgent       : SAMSUNG-GT-I8160P/100.20306
+DeviceWipeSentTime    : 
+DeviceWipeRequestTime : 
+DeviceWipeAckTime     : 
+LastPingHeartbeat     : 470
+RecoveryPassword      : ********
+DeviceModel           : GT-I8160P
+DeviceIMEI            : 123412341234567
+DeviceFriendlyName    : GT-I8160P
+DeviceOS              : Android
+DeviceOSLanguage      : español
+DevicePhoneNumber     : 
+Identity              : xxx@yyyy.com\AirSync-SAMSUNGGTI8160P-SAMSUNG1352364052645029
+
+FirstSyncTime         : 14/08/2014 13:25:23
+LastPolicyUpdateTime  : 16/04/2015 23:01:01
+LastSyncAttemptTime   : 06/07/2015 13:18:38
+LastSuccessSync       : 06/07/2015 13:18:38
+DeviceType            : SAMSUNGGTI8160P
+DeviceID              : SAMSUNG1352364052645029
+DeviceUserAgent       : SAMSUNG-GT-I8160P/100.20306
+DeviceWipeSentTime    : 
+DeviceWipeRequestTime : 
+DeviceWipeAckTime     : 
+LastPingHeartbeat     : 470
+RecoveryPassword      : ********
+DeviceModel           : GT-I8160P
+DeviceIMEI            : 123412341234567
+DeviceFriendlyName    : GT-I8160P
+DeviceOS              : Android
+DeviceOSLanguage      : español
+DevicePhoneNumber     : 
+Identity              : xxx@yyyy.com\AirSync-SAMSUNGGTI8160P-SAMSUNG1352364052645029
+
+FirstSyncTime         : 14/08/2014 13:25:23
+LastPolicyUpdateTime  : 16/04/2015 23:01:01
+LastSyncAttemptTime   : 06/07/2015 13:18:38
+LastSuccessSync       : 06/07/2015 13:18:38
+DeviceType            : SAMSUNGGTI8160P
+DeviceID              : SAMSUNG1352364052645029
+DeviceUserAgent       : SAMSUNG-GT-I8160P/100.20306
+DeviceWipeSentTime    : 
+DeviceWipeRequestTime : 
+DeviceWipeAckTime     : 
+LastPingHeartbeat     : 470
+RecoveryPassword      : ********
+DeviceModel           : GT-I8160P
+DeviceIMEI            : 123412341234567
+DeviceFriendlyName    : GT-I8160P
+DeviceOS              : Android
+DeviceOSLanguage      : español
+DevicePhoneNumber     : 
+Identity              : xxx@yyyy.com\AirSync-SAMSUNGGTI8160P-SAMSUNG1352364052645029
+
+___________________________________________________________________________________________________________________________________
