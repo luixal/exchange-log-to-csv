@@ -7,15 +7,15 @@ Code is quite simple and it uses [JSefa library](http://jsefa.sourceforge.net/) 
 
 * Using JAR file directly:
 
-'''
-java -jar ExchangeToCsv.jar <input-file> [<output_file>]
-'''
+```
+    java -jar ExchangeToCsv.jar <input-file> [<output_file>]
+```
 
 * Using the included script (or a variation for your platform):
 
-'''
-convert <input-file> [<output_file>]
-'''
+```
+    convert <input-file> [<output_file>]
+```
 
 ## Downloads
 
